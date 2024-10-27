@@ -1,0 +1,14 @@
+Package: cjhRutils
+Title: This is a package with Charlotte Jane Hadley's utility functions: cjhRutils
+Version: 0.0.0.9000
+Authors@R: 
+    person("Charlotte", "Hadley", , "charliejhadley@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-3039-6849"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+LazyData: true
